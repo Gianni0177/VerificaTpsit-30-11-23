@@ -4,6 +4,4 @@
 
 - Esempio di esecuzione :
 
-[][def]
-
-[def]: .\EsempioEsecuzione.png
+<div>&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Gianni0177/VerificaTpsit-30-11-23/blob/main/EsempioEsecuzione.png?raw=true"></div>
