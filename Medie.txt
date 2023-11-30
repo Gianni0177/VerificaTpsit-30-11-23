@@ -1,0 +1,2 @@
+		Media valori pari : 6
+				Media valori dispari : 5
